@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "fir-login-123cc",
+    "protfolio": "myprotfolio-9076f",
+    "MuhammedNihalweb": "myprotfolio-9076f",
+    "staging": "fir-login-123cc"
+  },
+  "targets": {},
+  "etags": {}
+}

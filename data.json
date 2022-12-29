@@ -1,0 +1,99 @@
+{
+    "name": "Muahmmed Nihal",
+    "email": "nihalriju915@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+  
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "assets/photos/blk&white.jpeg",
+    "coloredPhotoURL": "assets/photos/blk&white.jpeg",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://touch.facebook.com/nihu.nihal.9889"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/nihal__c__p/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/muhamme62546931"
+        },
+        {
+            "platform": "linkedin",
+            "url":   "https://www.linkedin.com/in/muhammed-nihal-454096237/"
+        },
+        {
+            "platform": "github",
+            "url":   "https://github.com/MuhammedNihalcp"
+        },
+        {
+            "platform": "medium",
+            "url":  "https://twitter.com/muhamme62546931"
+        }
+    ],
+    "aboutMeHeadline": "I'm Muhammed Nihal cp, a Flutter developer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a self thaught Flutter developer .I have done high secondory education in 2022. I have been developing mobile apps for over one year now. Currently working on a project of E-commerce application",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Java",
+        "C",
+        "C++"
+        
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+     
+       
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "6238961357"
+    },
+    "projects": [
+        {
+            "title": "Money Picker",
+            "iconUrl": "https://github.com/MuhammedNihalcp/Money-Picker",
+            "bannerUrl": "assets/projects/money picker feature graphic.png",
+            "description": "'Money Picker'It's an offline money manager with basic features with the help of Flutter Its Available in Play Store now."
+        },
+        {
+            "title": "My Shop",
+            "iconUrl": "https://github.com/MuhammedNihalcp/E-commerce-App",
+            "bannerUrl":  "assets/projects/myshop.png",
+            "description": "Its a e-commerce Project its named My Shop is a application for order all product The project is all about creating and view all product,Using Flutter and Firebase"
+        
+        }
+        
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Kerala, India"
+        },
+        {
+            "param": "phone",
+            "value": "+91 6238961357"
+        },
+        {
+            "param": "email",
+            "value": "nihalriju915@gmail.com"
+        }
+    ]
+}
