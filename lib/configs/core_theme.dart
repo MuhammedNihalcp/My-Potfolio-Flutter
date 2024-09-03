@@ -9,7 +9,8 @@ final themeLight = ThemeData(
   highlightColor: Colors.black,
   canvasColor: Colors.white,
   fontFamily: fontFamily,
-  backgroundColor: Colors.white,
+  useMaterial3: false,
+  // backgroundColor: Colors.white,
   splashColor: Colors.transparent,
   scaffoldBackgroundColor: Colors.white,
   colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.red).copyWith(
@@ -20,13 +21,14 @@ final themeLight = ThemeData(
 
 final themeDark = ThemeData(
   brightness: Brightness.dark,
+  useMaterial3: false,
   primaryColorDark: const Color(0xffC0392B),
   primaryColor: const Color(0xffC0392B),
   highlightColor: const Color(0xffC0392B),
   canvasColor: Colors.white,
   fontFamily: fontFamily,
   splashColor: Colors.transparent,
-  backgroundColor: Colors.grey[800],
+  // backgroundColor: Colors.grey[800],
   scaffoldBackgroundColor: Colors.black,
   colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.red).copyWith(
     secondary: const Color(0xffC0392B),

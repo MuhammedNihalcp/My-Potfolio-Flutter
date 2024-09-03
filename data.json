@@ -3,7 +3,6 @@
     "email": "nihalriju915@gmail.com",
     "subtitles": [
         "Flutter Developer",
-  
         "UI/UX Designer"
     ],
     "blackWhitePhotoURL": "assets/photos/blk&white.jpeg",
@@ -23,26 +22,25 @@
         },
         {
             "platform": "linkedin",
-            "url":   "https://www.linkedin.com/in/muhammed-nihal-454096237/"
+            "url": "https://www.linkedin.com/in/muhammed-nihal-454096237/"
         },
         {
             "platform": "github",
-            "url":   "https://github.com/MuhammedNihalcp"
+            "url": "https://github.com/MuhammedNihalcp"
         },
         {
             "platform": "medium",
-            "url":  "https://twitter.com/muhamme62546931"
+            "url": "https://twitter.com/muhamme62546931"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammed Nihal cp, a Flutter developer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a self thaught Flutter developer .I have done high secondory education in 2022. I have been developing mobile apps for over one year now. Currently working on a project of E-commerce application",
+    "aboutMeHeadline": "Software Engineer.",
+    "aboueMeDetails": "I’m Muhammed Nihal CP, a skilled software engineer with 2 years of experience in Flutter and React. I am currently working at Oonzoo in Dubai, where I develop robust and scalable applications to meet dynamic business needs. My background includes designing user-centric solutions and optimizing performance to enhance user experiences. I am passionate about leveraging technology to solve complex problems and drive innovation. Discover how my expertise and dedication can bring value to your projects through my portfolio.",
     "technologies": [
         "Flutter",
         "Dart",
         "Java",
         "C",
         "C++"
-        
     ],
     "services": [
         {
@@ -55,8 +53,6 @@
             "name": "UI/UX Designing",
             "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
         },
-     
-       
         {
             "icon": "assets/services/open.png",
             "name": "Open Source - GitHub",
@@ -76,11 +72,9 @@
         {
             "title": "My Shop",
             "iconUrl": "https://github.com/MuhammedNihalcp/E-commerce-App",
-            "bannerUrl":  "assets/projects/myshop.png",
+            "bannerUrl": "assets/projects/myshop.png",
             "description": "Its a e-commerce Project its named My Shop is a application for order all product The project is all about creating and view all product,Using Flutter and Firebase"
-        
         }
-        
     ],
     "contact": [
         {
